@@ -1,11 +1,11 @@
 # Github Npm
 
-Add links to npm libraries in github and npm readmes
+Link npm packages in github and npm readmes to the npm registry
 
 
 ## Install
 
-Install it from chrome store, or download this repo and load unpacke extension.
+Install it from chrome store, or download this repo and load as unpacked extension.
 
 ## Example
 
